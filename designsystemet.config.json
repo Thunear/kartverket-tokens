@@ -1,6 +1,6 @@
 {
   "$schema": "https://designsystemet.no/schemas/cli/1.19.0.json",
-  "outDir": "./src",
+  "outDir": "./design-tokens",
   "themes": {
     "green": {
       "colors": {
